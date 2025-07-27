@@ -1,0 +1,27 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="n5vA4QatIMsYvTIGQhW0">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M6dwogYvRgrVWfFEsJZ7-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M6dwogYvRgrVWfFEsJZ7-9" target="M6dwogYvRgrVWfFEsJZ7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="364" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6dwogYvRgrVWfFEsJZ7-5" value="Node coordinates:&lt;div&gt;{x: 0, y: 0}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M6dwogYvRgrVWfFEsJZ7-12" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M6dwogYvRgrVWfFEsJZ7-9" target="M6dwogYvRgrVWfFEsJZ7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6dwogYvRgrVWfFEsJZ7-9" value="Is node&amp;nbsp;&lt;div&gt;relaying&amp;nbsp;&lt;/div&gt;&lt;div&gt;point?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="351" y="40" width="126" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="M6dwogYvRgrVWfFEsJZ7-11" value="Is node one&amp;nbsp;&lt;div&gt;branch away&lt;div&gt;from relaying&amp;nbsp;&lt;/div&gt;&lt;div&gt;point?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="326" y="190" width="176" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
